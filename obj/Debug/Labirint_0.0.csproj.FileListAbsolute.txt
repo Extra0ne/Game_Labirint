@@ -1,0 +1,11 @@
+C:\VS Project\Labirint_0.0\Labirint_0.0\bin\Debug\Labirint_0.0.exe.config
+C:\VS Project\Labirint_0.0\Labirint_0.0\bin\Debug\Labirint_0.0.exe
+C:\VS Project\Labirint_0.0\Labirint_0.0\bin\Debug\Labirint_0.0.pdb
+C:\VS Project\Labirint_0.0\Labirint_0.0\obj\Debug\Labirint_0.0.csprojResolveAssemblyReference.cache
+C:\VS Project\Labirint_0.0\Labirint_0.0\obj\Debug\Labirint_0._0.FormMenu.resources
+C:\VS Project\Labirint_0.0\Labirint_0.0\obj\Debug\Labirint_0._0.Properties.Resources.resources
+C:\VS Project\Labirint_0.0\Labirint_0.0\obj\Debug\Labirint_0.0.csproj.GenerateResource.Cache
+C:\VS Project\Labirint_0.0\Labirint_0.0\obj\Debug\Labirint_0.0.exe
+C:\VS Project\Labirint_0.0\Labirint_0.0\obj\Debug\Labirint_0.0.pdb
+C:\VS Project\Labirint_0.0\Labirint_0.0\obj\Debug\Labirint_0._0.FormLevel2.resources
+C:\VS Project\Labirint_0.0\Labirint_0.0\obj\Debug\Labirint_0._0.FormLevel1.resources
